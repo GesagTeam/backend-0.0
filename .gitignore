@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
@@ -13,3 +14,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+=======
+# created by virtualenv automatically
+*
+>>>>>>> b443d94a2e5d36912b68116a15ab13075705f53f
